@@ -1,0 +1,7 @@
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\bin\Debug\RaseOfShadow.exe.config
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\bin\Debug\RaseOfShadow.exe
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\bin\Debug\RaseOfShadow.pdb
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\obj\Debug\RaseOfShadow.csproj.AssemblyReference.cache
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\obj\Debug\RaseOfShadow.csproj.CoreCompileInputs.cache
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\obj\Debug\RaseOfShadow.exe
+D:\Learning C#\RaseOfShadow\RaseOfShadow\RaseOfShadow\obj\Debug\RaseOfShadow.pdb
